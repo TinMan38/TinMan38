@@ -8,7 +8,7 @@
 Прекрасно справляюсь с нестандартными задачами в области IT и железа ПК. Целеустремленный, старательный, нацеленный на результат. Активно использую различные инструменты самообучения.
 
 - 📫 Contact me: 
-[![Gmail Badge]([https://img.shields.io/badge/-Gmail-red](https://s.iimg.su/s/31/wFFyjsLm3TeEznfsYThO9Ib3cemuTTeWjlegwjcX.jpg)?style=flat&logo=Gmail&logoColor=white)](mailto:gvi750@gmail.com)
+[![Gmail Badge](https://s.iimg.su/s/31/wFFyjsLm3TeEznfsYThO9Ib3cemuTTeWjlegwjcX.jpg?style=flat&logo=Gmail&logoColor=white)](mailto:gvi750@gmail.com)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-313f51?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/id61321415)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]( ... ) 
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tinman38)
