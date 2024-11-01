@@ -12,7 +12,7 @@
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-313f51?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/id61321415)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]( ... ) 
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tinman38)
-[![Stepik](https://s.iimg.su/s/31/rhbKucoxVyCEIYzNYUHtSygv495OfTFfVW46tOy6.jpg?style=for-the-badge&logo=stepik&logoColor=white)](https://stepik.org/users/906448278)
+[![Stepik](https://s.iimg.su/s/01/oUHL7ZBZfRCKsPJcaMADERZuVYt6ZA1fOEx3Idqb.jpg?style=for-the-badge&logo=stepik&logoColor=white)](https://stepik.org/users/906448278)
 
 - 🤝 Check out my resume: 
 [![Hh Badge](https://i.hh.ru/styles/images/logos/hh.ru__min_.svg?v=11032019)]( ... ) 
