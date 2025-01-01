@@ -8,11 +8,11 @@
 Прекрасно справляюсь с нестандартными задачами в области IT и железа ПК. Целеустремленный, старательный, нацеленный на результат. Активно использую различные инструменты самообучения.
 
 - 📫 Мои контакты: 
-[![Gmail Badge](https://radikal.cloud/i/Gmail-%D0%B8%D0%BA%D0%BE%D0%BD%D0%BA%D0%B0.ScN2ye?style=flat&logo=Gmail&logoColor=white)](mailto:gvi750@gmail.com)
+[![Gmail Badge](https://iimg.su/i/drh3e?style=flat&logo=Gmail&logoColor=white)](mailto:gvi750@gmail.com)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-313f51?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/tinman38)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]( ... ) 
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tinman38)
-[![Stepik](https://radikal.cloud/i/Stepik-%D0%B8%D0%BA%D0%BE%D0%BD%D0%BA%D0%B0.ScNf8b?style=for-the-badge&logo=stepik&logoColor=white)](https://stepik.org/users/906448278)
+[![Stepik](https://iimg.su/i/xTa9c?style=for-the-badge&logo=stepik&logoColor=white)](https://stepik.org/users/906448278)
 
 - 🤝 Моё резюме: 
 [![Hh Badge](https://i.hh.ru/styles/images/logos/hh.ru__min_.svg?v=11032019)](https://irkutsk.hh.ru/resume/b01984beff0df4872c0039ed1f65344a4b4d4c) 
