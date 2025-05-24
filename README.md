@@ -1,4 +1,4 @@
-<h2 align="center">Здравствуйте, меня зовут <a href="https://github.com/TinMan38" target="_blank">Виталий<a align="center">!</a> </h2>
+<h2 align="center">Здравствуйте, я <a href="https://github.com/TinMan38" target="_blank">Виталий<a align="center">!</a> </h2>
 <h3 align="center">Россия, Иркутск</h3>
 
 
