@@ -15,7 +15,7 @@
 
 - 🤝 Моё резюме: 
 [![Hh Badge](https://i.hh.ru/styles/images/logos/hh.ru__min_.svg?v=11032019)](https://irkutsk.hh.ru/resume/b01984beff0df4872c0039ed1f65344a4b4d4c) 
-[![My resume](https://iimg.su/s/09/coADI2I1cCpCJtGrwia4ffJYMd9MzKsiMUIXtRLm.jpg)](https://disk.yandex.ru/i/cuU_cuStETGAXw)
+[![My resume](https://iimg.su/s/09/coADI2I1cCpCJtGrwia4ffJYMd9MzKsiMUIXtRLm.jpg)](https://disk.yandex.ru/i/7PhRrZN3v0rXoA)
 
 ### 📁 Тестовая документация:
 
