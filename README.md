@@ -4,18 +4,8 @@
 
 ### 👨‍💻 Обо мне:
 
-Квалифицированный специалист по тестированию, автоматизированному тестированию и инструментах. Прекрасно справляюсь с нестандартными задачами в области IT и железа ПК. Целеустремленный, старательный, нацеленный на результат. Активно использую различные инструменты самообучения.
+Квалифицированный специалист по тестированию, автоматизированному тестированию.
 
-- 📫 Мои контакты: 
-[![Gmail Badge](https://s.iimg.su/s/29/Zt1LVHabQU3eCsjLil26bsb6Heu2n4QRHLkcw4Eo.jpg)](mailto:gvi750@gmail.com)
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-313f51?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/tinman38)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]( ... ) 
-[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tinman38)
-[![Stepik](https://s.iimg.su/s/18/UuHGSJDdqr7TzPMjijE62VsnL7r1xaFAXngLo2KF.jpg)](https://stepik.org/users/906448278)
-
-- 🤝 Моё резюме: 
-[![Hh Badge](https://i.hh.ru/styles/images/logos/hh.ru__min_.svg?v=11032019)](https://irkutsk.hh.ru/resume/b01984beff0df4872c0039ed1f65344a4b4d4c) 
-[![My resume](https://iimg.su/s/09/coADI2I1cCpCJtGrwia4ffJYMd9MzKsiMUIXtRLm.jpg)](https://disk.yandex.ru/i/Fpzzqkzm4ckvBg)
 
 ### 📁 Тестовая документация:
 
