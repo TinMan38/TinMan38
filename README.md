@@ -33,7 +33,7 @@
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="android-studio" alt="android-studio" width="40" height="40"/>&nbsp
-  <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/48/charles-proxy-icon.png" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>&nbsp
+  <img src="https://camo.githubusercontent.com/52d359daf7a4d7f77a304c2d38723809f5b67fbe5ed63191053aeb9747a0412c/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f333035332f504e472f3531322f636861726c65735f70726f78795f6d61636f735f6269677375725f69636f6e5f3139303330322e706e67" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>&nbsp
   <img src="https://pbs.twimg.com/profile_images/1589614420766126080/slAIVDtr_400x400.jpg" title="proxyman" alt="proxyman" width="40" height="40"/>&nbsp
 </div>
 
