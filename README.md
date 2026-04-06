@@ -52,7 +52,7 @@
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
-  <img src="https://bashlogo.com/img/logo/jpg/full_colored_light.jpg" title="bash" alt="bash" width="40" height="40"/>&nbsp
+  <img src="https://bashlogo.com/img/logo/jpg/full_colored_light.jpg" title="bash" alt="bash" width="80" height="80"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
   
 </div>
